@@ -1,7 +1,7 @@
 public class Ari {
     Animals animals;
 
-    public Ari(Animals animals) {
+    public Ari(Cat cat, Animals animals) {
         this.animals = animals;
     }
 
